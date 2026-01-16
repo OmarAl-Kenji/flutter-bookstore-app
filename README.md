@@ -1,16 +1,35 @@
-# myapp
+# Flutter BookStore App
 
-A new Flutter project.
+A mobile application built using Flutter that allows users to browse and purchase books through a clean and user-friendly interface.
 
-## Getting Started
+## Features
+- Browse available books
+- View book details
+- Search for books
+- User authentication (Sign Up & Login)
+- Organized categories and profile page
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Dart
+- Hive Database
 
-A few resources to get you started if this is your first Flutter project:
+## Project Type
+Academic / Practical Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Onboarding & Authentication
+![First Page](screenshots/first_page.jpg)
+![Sign Up](screenshots/signup_page.jpg)
+![Sign Up Details](screenshots/signup_page_details.jpg)
+![Login](screenshots/login_page.jpg)
+
+### Main App Screens
+![Home](screenshots/home_page.jpg)
+![Search](screenshots/search_page.jpg)
+![Book Details](screenshots/book_details_page.jpg)
+![Profile](screenshots/profile_page.jpg)
+
+## Author
+Omar Al-Kenji
